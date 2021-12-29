@@ -151,8 +151,7 @@
    
 <h2 align="center"> Music:  </h2>
   <p align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  <--Add Spotify here -->
 
 <h2 align="center"> Funding:  </h2>
   <p align="center">
@@ -205,10 +204,8 @@
   <p align="center">
     <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&style=flat-square&label=Number of visitors">
-   <a href="">
   <img src="https://badges.pufler.dev/years/ImaniAN?style=flat-square&label=Years on GitHub">
-     <a href="">
-  <img src="  https://badges.pufler.dev/updated/ImaniAN/ImaniAN/?style=flat-square&label=This was last updated">
+  <img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAN/?style=flat-square&label=This was last updated">
   
 <h2 align="center">Licence:</h2>
   <p align="center"> 
