@@ -205,7 +205,7 @@
   <p align="center">
   
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style==flat-square&label="Visitors"">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=flat-square&label="Visitors"">
 <a>
 
   <img src="https://badges.pufler.dev/years/ImaniAN?style=flat-square&label=Years on GitHub">
