@@ -203,7 +203,7 @@
 
 <h2 align="center"> 🤝 GitHub Extra info:  </h2>
   <p align="center">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=flat-square&label="Visitors">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&style=flat-square&label="Visitors">
 
   <img src="https://badges.pufler.dev/years/ImaniAN?style=flat-square&label=Years%20on%20GitHub">
 
