@@ -220,7 +220,7 @@
 <p align="center">
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&style=for-the-badge">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&style=flat-square">
 <a>
 
 <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN?style=flat-square>
@@ -229,7 +229,7 @@
 
 <img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAN?style=flat-square&label="This%20was%20last%20updated">
 
-   <img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAn">
+   <img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAn?style=flat-square&label=Years%20on%20GitHub"">
 
 
 </p>
