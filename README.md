@@ -24,7 +24,7 @@ I am a self-motivated individual, with a vision to gain experience through hard 
 </p>
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&style=for-the-badge">
 <a>
 
 <>
