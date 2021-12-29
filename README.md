@@ -23,9 +23,12 @@ A little about me
 I am a self-motivated individual, with a vision to gain experience through hard work and professional strategic planning. My goal is to provide professional services with a result for high solutions and dependability from our clients by taking personal ownership of all the aspects of my job thus also providing positive representation of the brand.  Additionally, I have experience in professionally training individuals at college level and corporate level and all other aspects associated with academic facilitation. I am looking for a position at an innovative company with a specialized work force that’s committed to their professional responsibilities.
 </p>
 
-<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+<h1 align="center"> 🤝 GitHub Extra info: </h1>
+  <p align="center">
+   <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&style=for-the-badge">
-<a>
+  </p>
+</h1>
 
 <>
 </>
