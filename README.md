@@ -203,12 +203,10 @@
 
 <h2 align="center"> 🤝 GitHub Extra info:  </h2>
   <p align="center">
-  
-<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=flat-square&label="Visitors">
-<a>
 
   <img src="https://badges.pufler.dev/years/ImaniAN?style=flat-square&label=Years on GitHub">
+
   <img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAN/?style=flat-square&label="This was last updated">
   
 <h2 align="center">Licence:</h2>
