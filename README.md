@@ -60,6 +60,7 @@
    <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13">
    <img src="https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white">
    <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=blac">
+   </p>
 
 <h2 align="center"> IDEs/Editors:  </h2>
   <p align="center">
@@ -71,13 +72,15 @@
    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+   </p>
 
 <h2 align="center"> Version Control:  </h2>
   <p align="center">
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-   
+   </p>
+
 <h2 align="center"> Social Accounts:  </h2>
   <p align="center">
    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
@@ -96,12 +99,14 @@
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
    <img src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+   </p>
    
 <h2 align="center"> Education:  </h2>
   <p align="center">
    <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white">
    <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
       <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
+      </p>
 
    
 <h2 align="center"> Forums:  </h2>
@@ -119,12 +124,14 @@
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+   </p>
    
 <h2 align="center">    Servers:  </h2>
   <p align="center">   
    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+   </p>
    
 <h2 align="center"> Databases:  </h2>
   <p align="center">
@@ -132,12 +139,14 @@
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+   </p>
    
 <h2 align="center"> Continoues Intergration(CI):  </h2>
   <p align="center">
    <img src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
    <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
    <img src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white">
+   </p>
    
 <h2 align="center"> Machine Learning and Data Science(Self-taught):</h2>
   <p align="center">
@@ -148,9 +157,9 @@
    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+   </p>
    
 <h2 align="center"> Music:  </h2>
-  <p align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
@@ -166,6 +175,7 @@
    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
    <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white">
    <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white">
+   </p>
    
 <h2 align="center">Operating System:  </h2>
   <p align="center">
@@ -173,6 +183,7 @@
    <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white">
    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+   </p>
    
 <h2 align="center">Browsers:  </h2>
   <p align="center">
@@ -180,6 +191,7 @@
    <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
    <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
    <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
+   </p>
    
 <h2 align="center">Microsoft Office:  </h2>
   <p align="center">
@@ -189,6 +201,7 @@
    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
    <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
    <img src="Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+   </p>
    
 <h2 align="center">SEO:</h2>
   <p align="center"> 
@@ -196,23 +209,27 @@
    <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
    <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white">
    <img src="https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white">
+   </p>
    
 <h2 align="center">API's:</h2>
   <p align="center"> 
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
 
 <h2 align="center"> 🤝 GitHub Extra info:  </h2>
-  <p align="center">
+<p align="center">
 
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&style=flat-square>
+<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN?style=flat-square>
 
-  <img src="https://badges.pufler.dev/years/ImaniAN?style=flat-square&label=Years%20on%20GitHub">
+<img src="https://badges.pufler.dev/years/ImaniAN?style=flat-square&label=Years%20on%20GitHub">
 
-  <img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAN/?style=flat-square&label="This%20was%20last%20updated">
+<img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAN?style=flat-square&label="This%20was%20last%20updated">
+</p>
   
 <h2 align="center">Licence:</h2>
   <p align="center"> 
    <img src="https://img.shields.io/github/license/ImaniAN/ImaniAN?style=for-the-badge">
+   </p>
   
 <>
 </>
