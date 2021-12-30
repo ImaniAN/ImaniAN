@@ -178,26 +178,50 @@
     <tr>
     <td>
   <p align="center">
-   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+   <a href="mailto:imanix8@gmail.com" class="">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
+
+   <a href="https://www.instagram.com/the_real_king_imani/" target="_blank" class="">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+   </a>
+
+   <a href="https://www.linkedin.com/in/imani-niyigena-04ab47136/" target="_blank" class="">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-   <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
-      <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+   </a>
+
+   <a href="mailto:imani.niyigena@outlook.com" class="">
    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-   <img src="https://img.shields.io/badge/<handle>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
+   </a>
+
+      <a href="https://za.pinterest.com/imanix8/" target="_blank" class="">
+   <img src="https://img.shields.io/badge/<@imanix8>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
+      </a>
+
+      <a href="https://www.reddit.com/user/The_Real_King_Some1" target="_blank" class="">
    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-   <img src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white">
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+      </a>
+
+   <a href="https://tttttt.me/king0ian" target="_blank" class="">
    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-   <img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+    </a>
+
+   <a href="https://www.https://twitter.com/king_niyigena/" target="_blank" class="">
+   <img src="https://img.shields.io/badge/<@king_niyigena>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+   </a>
+
+   <a href="https://wa.me/+27817360534" class="">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-   <img src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+   </a>
+
    </p></td>
     <td><p align="center">
    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white">
-   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
+   
+      <a href="https://www.reddit.com/user/The_Real_King_Some1" target="_blank" class="">
+   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+      </a>
    <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></td>
     <td><p align="center">
