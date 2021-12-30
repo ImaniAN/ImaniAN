@@ -202,7 +202,7 @@
    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
       </a>
 
-   <a href="https://tttttt.me/king0ian" target="_blank" class="">
+   <a href="https://tttttt.me/King0ian" target="_blank" class="">
    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
 
