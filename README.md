@@ -216,9 +216,12 @@
 </tbody>
 </table>
 
+<h2 align="center">🤝
 | Music:|
 | :----:    |
 | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)    |
+
+</h2>
    
 <h2 align="center">🤝 GitHub Extra info:</h2>
 <p align="center">
