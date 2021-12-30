@@ -195,19 +195,19 @@
    </a>
 
   <a href="https://za.pinterest.com/imanix8/" target="_blank" class="">
-   <img src="https://img.shields.io/badge/<@imanix8>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
+   <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
       </a>
 
   <a href="https://www.reddit.com/user/The_Real_King_Some1" target="_blank" class="">
    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
       </a>
 
-   <a href="https://tttttt.me/King0ian" target="_blank" class="">  </a>
+   <a href="https://tttttt.me/King0ian" target="_blank" class="">  
    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
   
-
    <a href="https://www.https://twitter.com/king_niyigena/" target="_blank" class="">
-   <img src="https://img.shields.io/badge/<@king_niyigena>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
    </a>
 
    <a href="https://wa.me/+27817360534" class="">
