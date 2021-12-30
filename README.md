@@ -14,14 +14,12 @@
 <p align="center">I am a self-motivated individual, with a vision to gain experience through hard work and professional strategic planning. My goal is to provide professional services with a result for high solutions and dependability from our clients by taking personal ownership of all the aspects of my job thus also providing positive representation of the brand.  Additionally, I have experience in professionally training individuals at college level and corporate level and all other aspects associated with academic facilitation. I am looking for a position at an innovative company with a specialized work force that’s committed to their professional responsibilities.</p>
 <br>
 <table>
-<thead>
+<tbody>
   <tr>
     <th><h2 align="center">🧠Languages🧠</h2></th>
     <th><h2 align="center">🥋Frameworks, Platforms and Libraries🥋</h2></th>
     <th><h2 align="center">🎨Design🎨</h2></th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td><p align="center">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
