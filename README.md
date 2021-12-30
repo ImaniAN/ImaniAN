@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">A little about me</h2>
-<p align="center">Entry-level/Junior/Associate Software Engineer/Developer</p>
+<p align="center">Entry-level/Junior/Associate Software Engineer-Developer</p>
 <p align="center">Entry-level/Junior/Associate Application Developer</p>
 <p align="center">Entry-level/Junior/Associate Automation Engineer</p>
 <p align="center">Entry-level/Junior/Associate Cloud Developer</p>
@@ -216,7 +216,7 @@
 </tbody>
 </table>
 
-<h2 align="center"> Music:  </h2>
+<h2>Music:</h2>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
