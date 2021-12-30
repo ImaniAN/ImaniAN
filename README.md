@@ -17,13 +17,13 @@
 <thead>
   <tr>
     <th><h2 align="center">Languages:</h2></th>
-    <th><h2 align="center"> Frameworks, Platforms and Libraries:</h2></th>
-    <th><h2 align="center"> Design:  </h2></th>
+    <th><h2 align="center">Frameworks, Platforms and Libraries:</h2></th>
+    <th><h2 align="center">Design:</h2></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>  <p align="center">
+    <td><p align="center">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
@@ -50,7 +50,7 @@
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
       <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
       </p></td>
-    <td>  <p align="center">
+    <td><p align="center">
       <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white">
       <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white">
       <img src="https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white">
@@ -65,17 +65,17 @@
    </p></td>
   </tr>
   <tr>
-    <td><h2 align="center"> Continoues Intergration(CI):  </h2></td>
-    <td><h2 align="center"> Version Control:  </h2></td>
-    <td><h2 align="center"> IDEs/Editors:  </h2></td>
+    <td><h2 align="center">Continuous Integration(CI):</h2></td>
+    <td><h2 align="center">Version Control:</h2></td>
+    <td><h2 align="center">IDEs/Editors:</h2></td>
   </tr>
   <tr>
-    <td>  <p align="center">
+    <td><p align="center">
    <img src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
    <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
    <img src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white">
    </p></td>
-    <td>  <p align="center">
+    <td><p align="center">
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
@@ -93,34 +93,34 @@
    </p></td>
   </tr>
   <tr>
-    <td><h2 align="center">Browsers:  </h2></td>
+    <td><h2 align="center">Browsers:</h2></td>
     <td><h2 align="center">SEO:</h2></td>
     <td><h2 align="center">API's:</h2></td>
   </tr>
   <tr>
-    <td>  <p align="center">
+    <td><p align="center">
    <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
    <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
    <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
    <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
    </p></td>
-    <td>  <p align="center"> 
+    <td><p align="center">
    <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white">
    <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
    <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white">
    <img src="https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white">
    </p</td>
-    <td>  <p align="center"> 
+    <td><p align="center">
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p></td>
   </tr>
   <tr>
-    <td><h2 align="center"> Machine Learning and Data Science(Self-taught):</h2></td>
-    <td><h2 align="center">Operating System:  </h2></td>
-    <td><h2 align="center">Microsoft Office:  </h2></td>
+    <td><h2 align="center">AI & ML (Self-taught):</h2></td>
+    <td><h2 align="center">Operating System:</h2></td>
+    <td><h2 align="center">Microsoft Office:</h2></td>
   </tr>
     <tr>
-    <td>  <p align="center">
+    <td><p align="center">
    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
@@ -129,13 +129,13 @@
    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
    </p></td>
-    <td>  <p align="center">
+    <td><p align="center">
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
    <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white">
    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
    </p></td>
-    <td>   <p align="center">
+    <td> <p align="center">
    <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
    <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
@@ -145,17 +145,17 @@
    </td>
   </tr>
     <tr>
-    <td><h2 align="center">    Servers:  </h2></td>
-    <td><h2 align="center">Hosting/SaaS:  </h2></td>
-    <td><h2 align="center"> Education:  </h2></td>
+    <td><h2 align="center">Server:</h2></td>
+    <td><h2 align="center">Hosting/SaaS:</h2></td>
+    <td><h2 align="center">Education:</h2></td>
   </tr>
     <tr>
-    <td>  <p align="center">   
+    <td><p align="center"> 
    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
    </p></td>
-    <td>  <p align="center">   
+    <td><p align="center"> 
    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white">
    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
@@ -163,7 +163,7 @@
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
    </p></td>
-    <td>  <p align="center">
+    <td><p align="center">
    <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white">
    <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
       <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
@@ -171,9 +171,9 @@
   </tr>
     </tr>
     <tr>
-    <td>   <h2 align="center"> Social Accounts:  </h2></td>
-    <td><h2 align="center"> Forums:  </h2></td>
-    <td><h2 align="center"> Funding:  </h2></td>
+    <td> <h2 align="center">How to reach me:</h2></td>
+    <td><h2 align="center">Forums:</h2></td>
+    <td><h2 align="center">Sponsor Me:</h2></td>
   </tr>
     <tr>
     <td>
@@ -194,13 +194,13 @@
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
    <img src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
    </p></td>
-    <td>  <p align="center">
+    <td><p align="center">
    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white">
    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
    <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></td>
-    <td>  <p align="center">
+    <td><p align="center">
    <img src="https://img.shields.io/badge/AmazonPay-ff9900.svg?style=for-the-badge&logo=Amazon-Pay&logoColor=white">
    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA">
@@ -216,11 +216,11 @@
 </tbody>
 </table>
 
-<h2 align="center"> Music:  </h2>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-    
-<h2 align="center"> 🤝 GitHub Extra info:  </h2>
+| Music:|
+| :----:    |
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)    |
+   
+<h2 align="center">🤝 GitHub Extra info:</h2>
 <p align="center">
 
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&style=flat-square">
@@ -230,6 +230,6 @@
 </p>
   
 <h2 align="center">Licence:</h2>
-  <p align="center"> 
+  <p align="center">
    <img src="https://img.shields.io/github/license/ImaniAN/ImaniAN?style=for-the-badge">
    </p>
