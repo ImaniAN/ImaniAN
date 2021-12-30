@@ -346,17 +346,15 @@
   </tbody>
 </table>
 
-<h2>🎧Music🎧</h2>
+<h2 align="center">🎧Music🎧</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <h2 align="center">🤝 GitHub Extra info🤝</h2>
 <p align="center">
-
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&style=flat-square">
-  <a>
-    <img src="https://badges.pufler.dev/years/ImaniAN?style=flat-square&label=Years%20on%20GitHub">
-    <img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAn?style=flat-square&label=Last%20Updated">
+  <img src="https://badges.pufler.dev/years/ImaniAN?style=flat-square&label=Years%20on%20GitHub">
+  <img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAn?style=flat-square&label=Last%20Updated">
 </p>
 
 <h2 align="center">🔐Licence🔐</h2>
