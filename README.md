@@ -1,5 +1,4 @@
-[comment]: # ()
-<h1 align="center">
+<h1 align="center"> <!--- Level 2 Heading to align contents -->
   😄Hi there. Welcome to my profile 🤗👋
 </h1>
 
@@ -13,7 +12,7 @@
 <p align="center">Entry-level/Junior/Associate Test Development Engineer</p>
 <p align="center">Entry-level/Junior/Associate Site Reliability Engineer (SRE)</p>
 
-<p align="center"> <!--- This is an HTML comment in Markdown -->
+<p align="center"> <!--- P tag to align contents -->
   I am a self-motivated individual, with a vision to gain experience through hard work and professional
   strategic planning. My goal is to provide professional services with a result for high solutions and dependability
   from our clients by taking personal ownership of all the aspects of my job thus also providing positive representation
@@ -21,8 +20,7 @@
   level and all other aspects associated with academic facilitation. I am looking for a position at an innovative
   company with a specialized work force that's committed to their professional responsibilities.
 </p>
-<br>
-<table>
+<table> <!--- Table Grid format for readability -->
   <thead>
     <tr>
       <th>
