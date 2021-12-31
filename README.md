@@ -299,7 +299,11 @@
         <a href="https://www.paypal.me/ImaniNiyigena" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
         </a>
+        /* </a> */
+        /* <a href="" target="_blank"></a> */
+        <a href="BitCoin Address: 32oV3xvDhhZHUw9BnVYGNxefWFGhcpGcef " target="_blank"></a>
           <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
+        </a>
           <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
           <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white">
           <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white">
