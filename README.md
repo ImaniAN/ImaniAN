@@ -3,22 +3,7 @@
 </h1>
 
 <h2 align="center">A little about me</h2> <!--- Level 2 Heading to align contents -->
-<p align="center">Entry-level/Junior/Associate *Software Engineer-Developer*</p>
-<p align="center">Entry-level/Junior/Associate *Application Developer*</p>
-<p align="center">Entry-level/Junior/Associate *Automation Engineer*</p>
-<p align="center">Entry-level/Junior/Associate *Cloud Developer*</p>
-<p align="center">Entry-level/Junior/Associate *DevOps Engineer*</p>
-<p align="center">Entry-level/Junior/Associate *Test Development Engineer*</p>
-<p align="center">Entry-level/Junior/Associate *Site Reliability Engineer (SRE)*</p>
 
-<p align="center"> <!--- P tag to align contents -->
-  I am a self-motivated individual, with a vision to gain experience through hard work and professional
-  strategic planning. My goal is to provide professional services with a result for high solutions and dependability
-  from our clients by taking personal ownership of all the aspects of my job thus also providing positive representation
-  of the brand. Additionally, I have experience in professionally training individuals at college level and corporate
-  level and all other aspects associated with academic facilitation. I am looking for a position at an innovative
-  company with a specialized work force that's committed to their professional responsibilities.
-</p>
 <table> <!--- Table Grid format for readability -->
   <thead>
     <tr>
@@ -41,7 +26,6 @@
           <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
           <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
           <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-          <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
         </p>
       </td>
