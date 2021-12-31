@@ -19,7 +19,7 @@
   from our clients by taking personal ownership of all the aspects of my job thus also providing positive representation
   of the brand. Additionally, I have experience in professionally training individuals at college level and corporate
   level and all other aspects associated with academic facilitation. I am looking for a position at an innovative
-  company with a specialized work force thatU+2019s committed to their professional responsibilities.
+  company with a specialized work force that's committed to their professional responsibilities.
 </p>
 <br>
 <table>
