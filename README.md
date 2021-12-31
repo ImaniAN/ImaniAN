@@ -35,7 +35,7 @@
   </thead>
   <tbody>
     <tr>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "🧠Languages🧠" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
           <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -46,7 +46,7 @@
           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
         </p>
       </td>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "🥋Frameworks, Platforms and Libraries🥋" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
           <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
@@ -66,7 +66,7 @@
           <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
         </p>
       </td>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "🎨Design🎨" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white">
           <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white">
@@ -94,14 +94,14 @@
       </td>
     </tr>
     <tr>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "🔂Continuous Integration(CI)🔂" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
           <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
           <img src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white">
         </p>
       </td>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "🧙Version Control🧙" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
           <a href="https://github.com/ImaniAN" target="_blank" rel="noopener noreferrer">
@@ -110,7 +110,7 @@
           <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
         </p>
       </td>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "✍IDEs/Editors✍" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
           <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">
@@ -136,7 +136,7 @@
       </td>
     </tr>
     <tr>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "🌐Browsers🌐" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
           <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
@@ -144,14 +144,14 @@
           <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
         </p>
       </td>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "🔎SEO🔍" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white">
           <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
           <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white">
           <img src="https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white">
           </p< /td>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "✨API's✨" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
         </p>
@@ -169,7 +169,7 @@
       </td>
     </tr>
     <tr>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "📊📉📈AI & ML📊📉📈" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
           <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
@@ -180,7 +180,7 @@
           <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
         </p>
       </td>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "💻Operating System💻" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
           <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white">
@@ -188,7 +188,7 @@
           <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
         </p>
       </td>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "🏢Microsoft Office🏢" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
           <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
@@ -211,14 +211,14 @@
       </td>
     </tr>
     <tr>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "🖥️Server🖥️" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
           <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
           <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
         </p>
       </td>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "🌌Hosting/SaaS🌌" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white">
           <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
@@ -228,7 +228,7 @@
           <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
         </p>
       </td>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "🎓Education🎓" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white">
           <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
@@ -249,7 +249,7 @@
       </td>
     </tr>
     <tr>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "📲How to reach me📲" -->
         <p align="center"> <!--- P tag to align contents -->
           <a href="mailto:imanix8@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -280,7 +280,7 @@
           </a>
         </p>
       </td>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "📝Forums📝" -->
         <p align="center"> <!--- P tag to align contents -->
           <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
           <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white">
@@ -290,7 +290,7 @@
           <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
           <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
       </td>
-      <td> <!--- Contents for "" -->
+      <td> <!--- Contents for "🙏Sponsor Me🙏" -->
         <p align="center"> <!--- P tag to align contents -->
         <a href="https://www.buymeacoffee.com/KingIAN" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
