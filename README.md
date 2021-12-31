@@ -1,10 +1,9 @@
-[//]: # (This may be the most platform independent comment)
-[comment]: # (This actually is the most platform independent comment)
+[comment]: # ()
 <h1 align="center">
   😄Hi there. Welcome to my profile 🤗👋
 </h1>
 
-<h2 align="center">A little about me</h2>
+<h2 align="center">A little about me</h2> [comment]: # (Level 2 Heading to align contents)
 <p align="center">Entry-level/Junior/Associate Software Engineer-Developer</p>
 <p align="center">Entry-level/Junior/Associate Application Developer</p>
 <p align="center">Entry-level/Junior/Associate Automation Engineer</p>
@@ -13,7 +12,7 @@
 <p align="center">Entry-level/Junior/Associate Test Development Engineer</p>
 <p align="center">Entry-level/Junior/Associate Site Reliability Engineer (SRE)</p>
 
-<p align="center">
+<p align="center"> [comment]: # (P tag to align contents)
   I am a self-motivated individual, with a vision to gain experience through hard work and professional
   strategic planning. My goal is to provide professional services with a result for high solutions and dependability
   from our clients by taking personal ownership of all the aspects of my job thus also providing positive representation
@@ -26,20 +25,20 @@
   <thead>
     <tr>
       <th>
-        <h2 align="center">🧠Languages🧠</h2>
+        <h2 align="center">🧠Languages🧠</h2> [comment]: # (Level 2 Heading to align contents)
       </th>
       <th>
-        <h2 align="center">🥋Frameworks, Platforms and Libraries🥋</h2>
+        <h2 align="center">🥋Frameworks, Platforms and Libraries🥋</h2> [comment]: # (Level 2 Heading to align contents)
       </th>
       <th>
-        <h2 align="center">🎨Design🎨</h2>
+        <h2 align="center">🎨Design🎨</h2> [comment]: # (Level 2 Heading to align contents)
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
           <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
           <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
@@ -50,7 +49,7 @@
         </p>
       </td>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
           <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
           <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -70,7 +69,7 @@
         </p>
       </td>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white">
           <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white">
           <img src="https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white">
@@ -87,25 +86,25 @@
     </tr>
     <tr>
       <td>
-        <h2 align="center">🔂Continuous Integration(CI)🔂</h2>
+        <h2 align="center">🔂Continuous Integration(CI)🔂</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
       <td>
-        <h2 align="center">🧙Version Control🧙</h2>
+        <h2 align="center">🧙Version Control🧙</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
       <td>
-        <h2 align="center">✍IDEs/Editors✍</h2>
+        <h2 align="center">✍IDEs/Editors✍</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
     </tr>
     <tr>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
           <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
           <img src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white">
         </p>
       </td>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
           <a href="https://github.com/ImaniAN" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -114,7 +113,7 @@
         </p>
       </td>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
           <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">
           <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">
@@ -129,18 +128,18 @@
     </tr>
     <tr>
       <td>
-        <h2 align="center">🌐Browsers🌐</h2>
+        <h2 align="center">🌐Browsers🌐</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
       <td>
-        <h2 align="center">🔎SEO🔍</h2>
+        <h2 align="center">🔎SEO🔍</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
       <td>
-        <h2 align="center">✨API's✨</h2>
+        <h2 align="center">✨API's✨</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
     </tr>
     <tr>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
           <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
           <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
@@ -148,32 +147,32 @@
         </p>
       </td>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white">
           <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
           <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white">
           <img src="https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white">
           </p< /td>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
         </p>
       </td>
     </tr>
     <tr>
       <td>
-        <h2 align="center">📊📉📈AI & ML📊📉📈</h2>
+        <h2 align="center">📊📉📈AI & ML📊📉📈</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
       <td>
-        <h2 align="center">💻Operating System💻</h2>
+        <h2 align="center">💻Operating System💻</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
       <td>
-        <h2 align="center">🏢Microsoft Office🏢</h2>
+        <h2 align="center">🏢Microsoft Office🏢</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
     </tr>
     <tr>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
           <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
           <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
@@ -184,7 +183,7 @@
         </p>
       </td>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
           <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white">
           <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -192,7 +191,7 @@
         </p>
       </td>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
           <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
           <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
@@ -204,25 +203,25 @@
     </tr>
     <tr>
       <td>
-        <h2 align="center">🖥️Server🖥️</h2>
+        <h2 align="center">🖥️Server🖥️</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
       <td>
-        <h2 align="center">🌌Hosting/SaaS🌌</h2>
+        <h2 align="center">🌌Hosting/SaaS🌌</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
       <td>
-        <h2 align="center">🎓Education🎓</h2>
+        <h2 align="center">🎓Education🎓</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
     </tr>
     <tr>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
           <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
           <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
         </p>
       </td>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white">
           <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
           <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
@@ -232,7 +231,7 @@
         </p>
       </td>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white">
           <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
           <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
@@ -242,18 +241,18 @@
     </tr>
     <tr>
       <td>
-        <h2 align="center">📲How to reach me📲</h2>
+        <h2 align="center">📲How to reach me📲</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
       <td>
-        <h2 align="center">📝Forums📝</h2>
+        <h2 align="center">📝Forums📝</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
       <td>
-        <h2 align="center">🙏Sponsor Me🙏</h2>
+        <h2 align="center">🙏Sponsor Me🙏</h2> [comment]: # (Level 2 Heading to align contents)
       </td>
     </tr>
     <tr>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <a href="mailto:imanix8@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
           </a>
@@ -284,7 +283,7 @@
         </p>
       </td>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
           <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
           <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white">
           <a href="https://www.reddit.com/user/The_Real_King_Some1" target="_blank" rel="noopener noreferrer">
@@ -294,7 +293,7 @@
           <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
       </td>
       <td>
-        <p align="center">
+        <p align="center"> [comment]: # (P tag to align contents)
         <a href="https://www.buymeacoffee.com/KingIAN" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
         </a>
@@ -322,19 +321,19 @@
   </tbody>
 </table>
 
-<h2 align="center">🎧Music🎧</h2>
+<h2 align="center">🎧Music🎧</h2> [comment]: # (Level 2 Heading to align contents)
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="Auto" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/3le8v925s45h586cyv9dfpdlt)
 
-<h2 align="center">🤝 GitHub Extra info🤝</h2>
-<p align="center">
+<h2 align="center">🤝 GitHub Extra info🤝</h2> [comment]: # (Level 2 Heading to align contents)
+<p align="center"> [comment]: # (P tag to align contents)
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&style=flat-square">
   <img src="https://badges.pufler.dev/years/ImaniAN?style=flat-square&label=Years%20on%20GitHub">
   <img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAn?style=flat-square&label=Last%20Updated">
 </p>
 
-<h2 align="center">🔐Licence🔐</h2>
-<p align="center">
+<h2 align="center">🔐Licence🔐</h2> [comment]: # (Level 2 Heading to align contents)
+<p align="center"> [comment]: # (P tag to align contents)
   <img src="https://img.shields.io/github/license/ImaniAN/ImaniAN?style=for-the-badge">
 </p>
