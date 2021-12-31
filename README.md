@@ -322,7 +322,9 @@
 <h2 align="center">🎧Music🎧</h2> <!--- Level 2 Heading to align contents -->
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="Auto" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/3le8v925s45h586cyv9dfpdlt) <!--- Spotify currently playing and last played with link to Spotify Account -->
+<!--- Spotify currently playing and last played with link to Spotify Account -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/3le8v925s45h586cyv9dfpdlt)
+<!--- Spotify currently playing and last played with link to Spotify Account -->
 
 <h2 align="center">🤝 GitHub Extra info🤝</h2> <!--- Level 2 Heading to align contents -->
 <p align="center"> <!--- P tag to align contents -->
