@@ -3,13 +3,13 @@
 </h1>
 
 <h2 align="center">A little about me</h2> <!--- Level 2 Heading to align contents -->
-<p align="center">Entry-level/Junior/Associate Software Engineer-Developer</p>
-<p align="center">Entry-level/Junior/Associate Application Developer</p>
-<p align="center">Entry-level/Junior/Associate Automation Engineer</p>
-<p align="center">Entry-level/Junior/Associate Cloud Developer</p>
-<p align="center">Entry-level/Junior/Associate DevOps Engineer</p>
-<p align="center">Entry-level/Junior/Associate Test Development Engineer</p>
-<p align="center">Entry-level/Junior/Associate Site Reliability Engineer (SRE)</p>
+<p align="center">Entry-level/Junior/Associate *Software Engineer-Developer*</p>
+<p align="center">Entry-level/Junior/Associate *Application Developer*</p>
+<p align="center">Entry-level/Junior/Associate *Automation Engineer*</p>
+<p align="center">Entry-level/Junior/Associate *Cloud Developer*</p>
+<p align="center">Entry-level/Junior/Associate *DevOps Engineer*</p>
+<p align="center">Entry-level/Junior/Associate *Test Development Engineer*</p>
+<p align="center">Entry-level/Junior/Associate *Site Reliability Engineer (SRE)*</p>
 
 <p align="center"> <!--- P tag to align contents -->
   I am a self-motivated individual, with a vision to gain experience through hard work and professional
