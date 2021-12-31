@@ -315,7 +315,7 @@
 </table>
 
 <h2 align="center">🎧Music🎧</h2>
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="center" width="200" height="auto" />
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="400" height="400" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
