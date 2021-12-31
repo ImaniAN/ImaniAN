@@ -105,7 +105,7 @@
       <td>
         <p align="center">
           <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-          <a href="https://github.com/ImaniAN" target="_blank" class="">
+          <a href="https://github.com/ImaniAN" target="_blank" rel="noopener noreferrer" class="">
             <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
           </a>
           <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
@@ -255,31 +255,26 @@
           <a href="mailto:imanix8@gmail.com" class="">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
           </a>
-          <a href="https://www.instagram.com/the_real_king_imani/" target="_blank" class="">
-            <img
-              src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+          <a href="https://www.instagram.com/the_real_king_imani/" target="_blank" rel="noopener noreferrer" class="">
+            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
           </a>
-          <a href="https://www.linkedin.com/in/imani-niyigena-04ab47136/" target="_blank" class="">
-            <img
-              src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+          <a href="https://www.linkedin.com/in/imani-niyigena-04ab47136/" target="_blank" rel="noopener noreferrer" class="">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
           </a>
           <a href="mailto:imani.niyigena@outlook.com" class="">
-            <img
-              src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+            <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
           </a>
-          <a href="https://za.pinterest.com/imanix8/" target="_blank" class="">
-            <img
-              src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
+          <a href="https://za.pinterest.com/imanix8/" target="_blank" rel="noopener noreferrer" class="">
+            <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
           </a>
-          <a href="https://www.reddit.com/user/The_Real_King_Some1" target="_blank" class="">
+          <a href="https://www.reddit.com/user/The_Real_King_Some1" target="_blank" rel="noopener noreferrer" class="">
             <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
           </a>
-          <a href="https://tttttt.me/King0ian" target="_blank" class="">
+          <a href="https://tttttt.me/King0ian" target="_blank" rel="noopener noreferrer" class="">
             <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
           </a>
-          <a href="https://www.https://twitter.com/king_niyigena/" target="_blank" class="">
-            <img
-              src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+          <a href="https://www.https://twitter.com/king_niyigena/" target="_blank" rel="noopener noreferrer" class="">
+            <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
           </a>
           <a href="https://wa.me/+27817360534" class="">
             <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
@@ -290,7 +285,7 @@
         <p align="center">
           <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
           <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white">
-          <a href="https://www.reddit.com/user/The_Real_King_Some1" target="_blank" class="">
+          <a href="https://www.reddit.com/user/The_Real_King_Some1" target="_blank" rel="noopener noreferrer" class="">
             <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
           </a>
           <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
@@ -298,17 +293,17 @@
       </td>
       <td>
         <p align="center">
-        <a href="https://www.buymeacoffee.com/KingIAN" target="_blank" class="">
+        <a href="https://www.buymeacoffee.com/KingIAN" target="_blank" rel="noopener noreferrer" class="">
           <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
-          </a>
-          <a href="https://www.paypal.me/ImaniNiyigena" target="_blank" class="">
+        </a>
+        <a href="https://www.paypal.me/ImaniNiyigena" target="_blank" rel="noopener noreferrer" class="">
           <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-          </a>
+        </a>
           <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
           <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
           <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white">
           <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white">
-          <a href="https://github.com/ImaniAN"> 
+        <a href="https://github.com/ImaniAN"> 
           <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> 
         </a>
         </p>
@@ -318,9 +313,9 @@
 </table>
 
 <h2 align="center">🎧Music🎧</h2>
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="400" height="Auto" />
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="Auto" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/3le8v925s45h586cyv9dfpdlt)
 
 <h2 align="center">🤝 GitHub Extra info🤝</h2>
 <p align="center">
