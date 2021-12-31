@@ -11,12 +11,14 @@
 <p align="center">Entry-level/Junior/Associate Test Development Engineer</p>
 <p align="center">Entry-level/Junior/Associate Site Reliability Engineer (SRE)</p>
 
-<p align="center">I am a self-motivated individual, with a vision to gain experience through hard work and professional
+<p align="center">
+  I am a self-motivated individual, with a vision to gain experience through hard work and professional
   strategic planning. My goal is to provide professional services with a result for high solutions and dependability
   from our clients by taking personal ownership of all the aspects of my job thus also providing positive representation
   of the brand. Additionally, I have experience in professionally training individuals at college level and corporate
   level and all other aspects associated with academic facilitation. I am looking for a position at an innovative
-  company with a specialized work force that’s committed to their professional responsibilities.</p>
+  company with a specialized work force thatU+2019s committed to their professional responsibilities.
+</p>
 <br>
 <table>
   <thead>
@@ -282,7 +284,7 @@
           <a href="https://wa.me/+27817360534" class="">
             <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
           </a>
-</p>
+        </p>
       </td>
       <td>
         <p align="center">
@@ -315,6 +317,9 @@
 <h2 align="center">🎧Music🎧</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 <h2 align="center">🤝 GitHub Extra info🤝</h2>
 <p align="center">
