@@ -301,6 +301,7 @@
         </a>
         <! –– <a href="" target="_blank"></a>
         <a href="https://BitCoinAddress:32oV3xvDhhZHUw9BnVYGNxefWFGhcpGcef" target="_blank">
+          <a href="https://github.com/ImaniAN"> 
           <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
         </a>
           <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
