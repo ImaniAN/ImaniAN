@@ -299,13 +299,18 @@
         <a href="https://www.paypal.me/ImaniNiyigena" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
         </a>
-        <! –– <a href="" target="_blank"></a>
           <a href="https://bitcoinaddress.afterslash/3GJ2JR5m8iTGr6XufSJ7cRhv5iotfydSs4"> 
           <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
         </a>
+        <a href="https://ethereumaddress.afterslash/0x0fE164Fa8e566908aa873a0610170d49804bC123"> 
           <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+        </a>
+        <a href="https://litecoinaddress.afterslash/MKgSAbMUhrjbKVzak9KHJ6HvBD75rHd4oZ"> 
           <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white">
+        </a>
+        <a href="https://xrpaddress.afterslash/rsRy14FvipgqudiGmptJBhr1RtpsgfzKMM/xrptag/2136507924"> 
           <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white">
+        </a>
         <a href="https://github.com/ImaniAN"> 
           <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> 
         </a>
