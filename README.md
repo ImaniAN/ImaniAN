@@ -311,7 +311,7 @@
           <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white">
         </a>
         <a href="https://github.com/ImaniAN"> 
-          <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" width="150" height="auto"/> 
+          <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="Work, social life and sleep Gif" width="150" height="auto"/> 
         </a>
         </p>
       </td>
