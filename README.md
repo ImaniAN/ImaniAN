@@ -2,6 +2,7 @@
 <h1 align="center">
   😄Hi there. Welcome to my profile 🤗👋
 </h1>
+
 [comment]: # (Level 2 Heading to align contents)
 <h2 align="center">A little about me</h2>
 <p align="center">Entry-level/Junior/Associate Software Engineer-Developer</p>
@@ -12,7 +13,7 @@
 <p align="center">Entry-level/Junior/Associate Test Development Engineer</p>
 <p align="center">Entry-level/Junior/Associate Site Reliability Engineer (SRE)</p>
 
-<p align="center"> [comment]: # (P tag to align contents)
+<p align="center"> <!--- This is an HTML comment in Markdown -->
   I am a self-motivated individual, with a vision to gain experience through hard work and professional
   strategic planning. My goal is to provide professional services with a result for high solutions and dependability
   from our clients by taking personal ownership of all the aspects of my job thus also providing positive representation
