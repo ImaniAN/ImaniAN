@@ -2,8 +2,8 @@
 <h1 align="center">
   😄Hi there. Welcome to my profile 🤗👋
 </h1>
-
-<h2 align="center">A little about me</h2> [comment]: # (Level 2 Heading to align contents)
+[comment]: # (Level 2 Heading to align contents)
+<h2 align="center">A little about me</h2>
 <p align="center">Entry-level/Junior/Associate Software Engineer-Developer</p>
 <p align="center">Entry-level/Junior/Associate Application Developer</p>
 <p align="center">Entry-level/Junior/Associate Automation Engineer</p>
@@ -25,13 +25,13 @@
   <thead>
     <tr>
       <th>
-        <h2 align="center">🧠Languages🧠</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">🧠Languages🧠</h2>
       </th>
       <th>
-        <h2 align="center">🥋Frameworks, Platforms and Libraries🥋</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">🥋Frameworks, Platforms and Libraries🥋</h2>
       </th>
       <th>
-        <h2 align="center">🎨Design🎨</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">🎨Design🎨</h2>
       </th>
     </tr>
   </thead>
@@ -86,13 +86,13 @@
     </tr>
     <tr>
       <td>
-        <h2 align="center">🔂Continuous Integration(CI)🔂</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">🔂Continuous Integration(CI)🔂</h2>
       </td>
       <td>
-        <h2 align="center">🧙Version Control🧙</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">🧙Version Control🧙</h2>
       </td>
       <td>
-        <h2 align="center">✍IDEs/Editors✍</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">✍IDEs/Editors✍</h2>
       </td>
     </tr>
     <tr>
@@ -128,13 +128,13 @@
     </tr>
     <tr>
       <td>
-        <h2 align="center">🌐Browsers🌐</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">🌐Browsers🌐</h2>
       </td>
       <td>
-        <h2 align="center">🔎SEO🔍</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">🔎SEO🔍</h2>
       </td>
       <td>
-        <h2 align="center">✨API's✨</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">✨API's✨</h2>
       </td>
     </tr>
     <tr>
@@ -161,13 +161,13 @@
     </tr>
     <tr>
       <td>
-        <h2 align="center">📊📉📈AI & ML📊📉📈</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">📊📉📈AI & ML📊📉📈</h2>
       </td>
       <td>
-        <h2 align="center">💻Operating System💻</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">💻Operating System💻</h2>
       </td>
       <td>
-        <h2 align="center">🏢Microsoft Office🏢</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">🏢Microsoft Office🏢</h2>
       </td>
     </tr>
     <tr>
@@ -203,13 +203,13 @@
     </tr>
     <tr>
       <td>
-        <h2 align="center">🖥️Server🖥️</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">🖥️Server🖥️</h2>
       </td>
       <td>
-        <h2 align="center">🌌Hosting/SaaS🌌</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">🌌Hosting/SaaS🌌</h2>
       </td>
       <td>
-        <h2 align="center">🎓Education🎓</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">🎓Education🎓</h2>
       </td>
     </tr>
     <tr>
@@ -241,13 +241,13 @@
     </tr>
     <tr>
       <td>
-        <h2 align="center">📲How to reach me📲</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">📲How to reach me📲</h2>
       </td>
       <td>
-        <h2 align="center">📝Forums📝</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">📝Forums📝</h2>
       </td>
       <td>
-        <h2 align="center">🙏Sponsor Me🙏</h2> [comment]: # (Level 2 Heading to align contents)
+        <h2 align="center">🙏Sponsor Me🙏</h2>
       </td>
     </tr>
     <tr>
@@ -320,20 +320,20 @@
     </tr>
   </tbody>
 </table>
-
-<h2 align="center">🎧Music🎧</h2> [comment]: # (Level 2 Heading to align contents)
+[comment]: # (Level 2 Heading to align contents)
+<h2 align="center">🎧Music🎧</h2>
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="Auto" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/3le8v925s45h586cyv9dfpdlt)
-
-<h2 align="center">🤝 GitHub Extra info🤝</h2> [comment]: # (Level 2 Heading to align contents)
+[comment]: # (Level 2 Heading to align contents)
+<h2 align="center">🤝 GitHub Extra info🤝</h2>
 <p align="center"> [comment]: # (P tag to align contents)
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&style=flat-square">
   <img src="https://badges.pufler.dev/years/ImaniAN?style=flat-square&label=Years%20on%20GitHub">
   <img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAn?style=flat-square&label=Last%20Updated">
 </p>
-
-<h2 align="center">🔐Licence🔐</h2> [comment]: # (Level 2 Heading to align contents)
+[comment]: # (Level 2 Heading to align contents)
+<h2 align="center">🔐Licence🔐</h2>
 <p align="center"> [comment]: # (P tag to align contents)
   <img src="https://img.shields.io/github/license/ImaniAN/ImaniAN?style=for-the-badge">
 </p>
