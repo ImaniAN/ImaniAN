@@ -300,8 +300,7 @@
           <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
         </a>
         <! –– <a href="" target="_blank"></a>
-        <a href="https://BitCoinAddress:32oV3xvDhhZHUw9BnVYGNxefWFGhcpGcef" target="_blank">
-          <a href="https://bitcoin/address.32oV3xvDhhZHUw9BnVYGNxefWFGhcpGcef"> 
+          <a href="https://bitcoinaddress=32oV3xvDhhZHUw9BnVYGNxefWFGhcpGcef"> 
           <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
         </a>
           <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
