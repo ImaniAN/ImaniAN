@@ -286,7 +286,7 @@
        </p>
       </td>
       <td> <!--- Contents for "🙏Sponsor Me🙏" -->
-        <p align="center"> <!--- P tag to align contents -->
+      <p align="center"> <!--- P tag to align contents -->
         <a href="https://www.buymeacoffee.com/KingIAN">
           <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
         </a>
@@ -304,11 +304,8 @@
         </a>               
         <a href="https://xrpaddress.afterslash/rsRy14FvipgqudiGmptJBhr1RtpsgfzKMM/xrptag/2136507924"> 
           <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white">
-        </a>
-        <a href="https://github.com/ImaniAN"> 
-          <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" align="center" alt="Sponsor me gif" width="150" height="auto"/> 
-        </a>
-        </p>
+        </a>        
+      </p>
       </td>
     </tr>
   </tbody>
