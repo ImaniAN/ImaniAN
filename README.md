@@ -268,16 +268,16 @@
           <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" title="Click on the link and check out the URL">
         </a>
         <a href="https://litecoinaddress.afterslash/MKgSAbMUhrjbKVzak9KHJ6HvBD75rHd4oZ"> 
-          <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white" title="Click on the link and check out the URL">>
+          <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white" title="Click on the link and check out the URL">
         </a>
         <a href="https://bitcoinaddress.afterslash/3GJ2JR5m8iTGr6XufSJ7cRhv5iotfydSs4"> 
-          <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" title="Click on the link and check out the URL">>
+          <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" title="Click on the link and check out the URL">
         </a>
         <a href="https://www.paypal.me/ImaniNiyigena">
           <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
         </a>               
         <a href="https://xrpaddress.afterslash/rsRy14FvipgqudiGmptJBhr1RtpsgfzKMM/xrptag/2136507924"> 
-          <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" title="Click on the link and check out the URL">>
+          <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" title="Click on the link and check out the URL">
         </a>        
       </p>
       </td>
