@@ -74,7 +74,7 @@
         </a>
         <a href="https://jquery.com/">
           <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-        </a>P
+        </a>
         <a href="https://dotnet.microsoft.com/en-us/">
           <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
         </a>
