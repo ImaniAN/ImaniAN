@@ -356,6 +356,12 @@
           <a href="mailto:imani.niyigena@outlook.com">
             <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
           </a>
+          <a href="https://twitter.com/king_niyigena">
+            <img src="https://img.shields.io/twitter/follow/king_niyigena?label=king_niyigena&logo=twitter&style=for-the-badge">
+          </a>
+          <a href="https://github.com/ImaniAN">
+            <img src="https://img.shields.io/github/followers/ImaniAN?logo=GitHub&style=for-the-badge">
+          </a>  
           <a href="https://www.instagram.com/the_real_king_imani/">
             <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
           </a>
@@ -370,9 +376,6 @@
           </a>          
           <a href="https://tttttt.me/King0ian">
             <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-          </a>
-          <a href="https://www.https://twitter.com/king_niyigena/">
-            <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
           </a>
           <a href="https://www.reddit.com/user/The_Real_King_Some1">
             <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
@@ -441,6 +444,12 @@
     <img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAn?style=flat-square&label=Last%20Updated">
   </a>
 </p>
+  <a href="https://github.com/ImaniAN">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&layout=compact&theme=gotham" alt="ImaniAN" />
+    </a>
+<a href="https://github.com/ImaniAN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImaniAN&show_icons=true&theme=gotham" alt="ImaniAN" />
+    </a>
 
 <h2 align="center">🔐Licence🔐</h2> <!--- Level 2 Heading to align contents --> 
 <p align="center"> <!--- P tag to align contents -->
@@ -449,4 +458,4 @@
   </a>
 </p>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2  align="center">⬇️ Check Out My Repos ⬇️ </h2>
