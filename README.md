@@ -443,13 +443,17 @@
   <a href="https://github.com/ImaniAN">
     <img src="https://badges.pufler.dev/updated/ImaniAN/ImaniAn?style=flat-square&label=Last%20Updated">
   </a>
-</p>
+    </p>
+  <p align="center"> <!--- P tag to align contents -->
   <a href="https://github.com/ImaniAN">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&layout=compact&theme=gotham" alt="ImaniAN" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&layout=compact&theme=gotham" alt="ImaniAN" />
     </a>
+    </p>
+    <p align="center"> <!--- P tag to align contents -->
 <a href="https://github.com/ImaniAN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImaniAN&show_icons=true&theme=gotham" alt="ImaniAN" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImaniAN&show_icons=true&theme=gotham" alt="ImaniAN" />
     </a>
+  </p>
 
 <h2 align="center">🔐Licence🔐</h2> <!--- Level 2 Heading to align contents --> 
 <p align="center"> <!--- P tag to align contents -->
