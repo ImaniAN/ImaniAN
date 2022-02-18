@@ -445,13 +445,10 @@
   </a>
     </p>
   <p align="center"> <!--- P tag to align contents -->
-  <a href="https://github.com/ImaniAN">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&layout=compact&theme=gotham" alt="ImaniAN" />
+    <a href="https://github.com/ImaniAN">
+      <img alt="ImaniAN's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ImaniAN&show_icons=true&count_private=true&layout=compact&theme=gotham" height="192px"/>
     </a>
-    </p>
-    <p align="center"> <!--- P tag to align contents -->
-<a href="https://github.com/ImaniAN">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImaniAN&show_icons=true&theme=gotham" alt="ImaniAN" />
+    <a href="https://github.com/ImaniAN"><img alt="ImaniAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook" height="192px"/>
     </a>
   </p>
 
