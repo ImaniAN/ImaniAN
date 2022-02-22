@@ -459,4 +459,37 @@
   </a>
 </p>
 
+<details>
+  <summary>Resources and credits. (Thanks for these awesome resources that were used during the development) </summary>
+  <ol>
+    <li><a href="https://github.com/abhisheknaiidu/abhisheknaiidu">**Add Description</a></li>
+    <li><a href="https://github.com/DenverCoder1/DenverCoder1">**Add Description</a></li>
+    <li><a href="https://github.com/liununu/liununu">**Add Description</a></li>
+    <li><a href="https://github.com/stars/ImaniAN/lists/readme">**Add Description</a></li>
+    <li><a href="https://github.com/Ileriayo/markdown-badges">**Add Description</a></li>
+    <li><a href="https://github.com/lowlighter/metrics">**Add Description</a></li>
+    <li><a href="https://github.com/matiassingers/awesome-readme">**Add Description</a></li>
+    <li><a href="https://github.com/dec0dOS/amazing-github-template#acknowledgements">**Add Description</a></li>
+    <li><a href="https://github.com/dec0dOS/amazing-github-template">**Add Description</a></li>
+    <li><a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">**Add Description</a></li>
+    <li><a href="https://spotify-github-profile.vercel.app/api/login">**Add Description</a></li>
+    <li><a href="https://github.com/kittinan/spotify-github-profile">**Add Description</a></li>
+    <li><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">**Add Description</a></li>
+    <li><a href="https://github.com/liununu/liununu">**Add Description</a></li>
+    <li><a href="https://github.com/anuraghazra/github-readme-stats">**Add Description</a></li>
+    <li><a href="https://github.com/anuraghazra/github-readme-stats">**Add Description</a></li>
+    <li><a href="https://github.com/arturssmirnovs/github-profile-views-counter">**Add Description</a></li>
+    <li><a href="https://github.com/ryo-ma/github-profile-trophy">**Add Description</a></li>
+    <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">**Add Description</a></li>
+    <li><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">**Add Description</a></li>
+    <li><a href="https://github.com/simple-icons/simple-icons">**Add Description</a></li>
+    <li><a href="https://github.com/andreasremdt/simple-translator">**Add Description</a></li>
+    <li><a href="https://arturssmirnovs.github.io/github-profile-readme-generator/">**Add Description</a></li>
+    <li><a href="https://github-readme-streak-stats.herokuapp.com/demo/">**Add Description</a></li>
+    <li><a href="https://coderjojo.github.io/creative-profile-readme/">**Add Description</a></li>
+    <li><a href="https://dev.to/coderjojo/github-new-feature-to-add-readme-on-your-profile-ggc">**Add Description</a></li>
+    <li><a href="https://awesome-github-readme-profile.netlify.app/">**Add Description</a></li>
+  </ol>
+</details>
+
 <h2  align="center">⬇️ Check Out My Repos ⬇️ </h2>
