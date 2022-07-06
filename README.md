@@ -360,7 +360,7 @@
             <img src="https://img.shields.io/twitter/follow/king_niyigena?label=king_niyigena&logo=twitter&style=for-the-badge">
           </a>
           <a href="https://github.com/ImaniAN">
-            <img src="https://img.shields.io/github/followers/ImaniAN?logo=GitHub&style=for-the-badge">
+            <img src="https://img.shields.io/github/followers/ImaniAN?label=ImaniAN&logo=GitHub&style=for-the-badge">
           </a>  
           <a href="https://www.instagram.com/the_real_king_imani/">
             <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
