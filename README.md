@@ -444,7 +444,7 @@
     <img src="https://img.shields.io/github/stars/ImaniAN/ImaniAN?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&color=1D70B8&label=Repo%20Stars">
    </a>
   <a href="https://github.com/ImaniAN">
-   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ImaniAN/ImaniAN?style=for-the-badge&color=1D70B8&logo=GitHub&logoColor=FFFFFF&label=Last%20Updated">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ImaniAN/ImaniAN?style=for-the-badge&color=1D70B8&logo=GitHub&logoColor=FFFFFF&label=Last%20Update">
   </a>
   </a>
     </p>
