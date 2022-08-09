@@ -459,7 +459,7 @@
 <h2 align="center">🔐Licence🔐</h2> <!--- Level 2 Heading to align contents --> 
 <p align="center"> <!--- P tag to align contents -->
   <a href="https://github.com/ImaniAN/ImaniAN/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/ImaniAN/ImaniAN?style=for-the-badge">
+    <img src="https://img.shields.io/github/license/ImaniAN/ImaniAN?style=for-the-badge&color=1D70B8">
   </a>
 </p>
 
