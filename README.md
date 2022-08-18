@@ -455,6 +455,18 @@
     <a href="https://github.com/ImaniAN"><img alt="ImaniAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook" height="192px"/>
     </a>
   </p>
+  
+  
+<!-- Number of profile visitors - NEW SECTION -->
+<!-- <div align="center">
+<br><p align="centre"><b>Number of profile visitors</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ImaniAN}/count.svg" /></p> 
+<br></div>
+<p align="center">
+  <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+
+</p>
+<hr>-->
 
 <h2 align="center">🔐Licence🔐</h2> <!--- Level 2 Heading to align contents --> 
 <p align="center"> <!--- P tag to align contents -->
