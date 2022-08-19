@@ -153,19 +153,19 @@
       <td> <!--- Contents for "✍IDEs/Editors✍" -->
         <p align="center"> <!--- P tag to align contents -->
         <a href="https://code.visualstudio.com/">
-          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">                    
+          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
           <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
         </a>
         <a href="https://visualstudio.microsoft.com/">
           <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
         </a>
-        <a href="https://wordpress.com/">        
+        <a href="https://wordpress.com/">
           <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
         </a>
         <a href="https://www.jetbrains.com/pycharm/">
           <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-          </a> 
-        <a href="https://jupyter.org/">          
+          </a>
+        <a href="https://jupyter.org/">
           <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
         </a>
         <a href="https://www.jetbrains.com/webstorm/">
@@ -199,7 +199,7 @@
         </a>
         <a href="https://www.torproject.org/">
           <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
-          </a>          
+          </a>
         </p>
       </td>
       <td> <!--- Contents for "🔎SEO🔍" -->
@@ -250,7 +250,7 @@
         </a>
         <a href="https://scipy.org/">
           <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-          </a> 
+          </a>
         </p>
       </td>
       <td> <!--- Contents for "💻Operating System💻" -->
@@ -275,7 +275,7 @@
           <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
         </a>
         <a href="https://www.microsoft.com/en-za/microsoft-365/access">
-          <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">         
+          <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
         </a>
         <a href="https://www.microsoft.com/en-za/microsoft-365/excel">
           <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
@@ -308,7 +308,7 @@
         </a>
         <a href="https://www.nginx.com/">
           <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
-        </a> 
+        </a>
         </p>
       </td>
       <td> <!--- Contents for "🌌Hosting/SaaS🌌" -->
@@ -321,7 +321,7 @@
         </a>
         <a href="https://azure.microsoft.com/en-us/">
           <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white">
-        </a>          
+        </a>
         </p>
       </td>
       <td> <!--- Contents for "🎓Education🎓" -->
@@ -334,7 +334,7 @@
         </a>
         <a href="https://developer.mozilla.org/">
           <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
-        </a>     
+        </a>
         </p>
       </td>
     </tr>
@@ -361,7 +361,7 @@
           </a>
           <a href="https://github.com/ImaniAN">
             <img src="https://img.shields.io/github/followers/ImaniAN?label=ImaniAN&logo=GitHub&style=for-the-badge">
-          </a>  
+          </a>
           <a href="https://www.instagram.com/the_real_king_imani/">
             <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
           </a>
@@ -373,7 +373,7 @@
           </a>
           <a href="https://www.linkedin.com/in/imani-niyigena-04ab47136/">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-          </a>          
+          </a>
           <a href="https://tttttt.me/King0ian">
             <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
           </a>
@@ -403,21 +403,21 @@
         <a href="https://www.buymeacoffee.com/KingIAN">
           <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
         </a>
-        <a href="https://ethereumaddress.afterslash/0x0fE164Fa8e566908aa873a0610170d49804bC123"> 
+        <a href="https://ethereumaddress.afterslash/0x0fE164Fa8e566908aa873a0610170d49804bC123">
           <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" title="Click on the link and check out the URL">
         </a>
-        <a href="https://litecoinaddress.afterslash/MKgSAbMUhrjbKVzak9KHJ6HvBD75rHd4oZ"> 
+        <a href="https://litecoinaddress.afterslash/MKgSAbMUhrjbKVzak9KHJ6HvBD75rHd4oZ">
           <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white" title="Click on the link and check out the URL">
         </a>
-        <a href="https://bitcoinaddress.afterslash/3GJ2JR5m8iTGr6XufSJ7cRhv5iotfydSs4"> 
+        <a href="https://bitcoinaddress.afterslash/3GJ2JR5m8iTGr6XufSJ7cRhv5iotfydSs4">
           <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" title="Click on the link and check out the URL">
         </a>
         <a href="https://www.paypal.me/ImaniNiyigena">
           <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-        </a>               
-        <a href="https://xrpaddress.afterslash/rsRy14FvipgqudiGmptJBhr1RtpsgfzKMM/xrptag/2136507924"> 
+        </a>
+        <a href="https://xrpaddress.afterslash/rsRy14FvipgqudiGmptJBhr1RtpsgfzKMM/xrptag/2136507924">
           <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" title="Click on the link and check out the URL">
-        </a>        
+        </a>
       </p>
       </td>
     </tr>
@@ -428,7 +428,7 @@
 
 <p align="center"> <!--- P tag to align contents -->
   <a href="https://open.spotify.com/user/3le8v925s45h586cyv9dfpdlt" align="center" > <!--- Spotify currently playing and last played with link to Spotify Account -->
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true" align="center" alt="Spotify Now playing and recently played"/> 
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true" align="center" alt="Spotify Now playing and recently played"/>
   </a><!--- Spotify currently playing and last played with link to Spotify Account -->
 </p>
 
@@ -446,7 +446,6 @@
   <a href="https://github.com/ImaniAN">
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ImaniAN/ImaniAN?style=for-the-badge&color=1D70B8&logo=GitHub&logoColor=FFFFFF&label=Last%20Update">
   </a>
-  </a>
     </p>
   <p align="center"> <!--- P tag to align contents -->
     <a href="https://github.com/ImaniAN">
@@ -455,20 +454,22 @@
     <a href="https://github.com/ImaniAN"><img alt="ImaniAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook" height="192px"/>
     </a>
   </p>
-  
-  
-<!-- Number of profile visitors - NEW SECTION -->
-<!-- <div align="center">
-<br><p align="centre"><b>Number of profile visitors</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ImaniAN}/count.svg" /></p> 
-<br></div>
+ <!--- SECTION START: Contents for Number of profile visitors -->
+ <!---
+ <div align="center">
+  <br>
+    <p align="centre"><b>Number of profile visitors</b></p>
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ImaniAN}/count.svg" /></p>
+  <br>
+ </div>
 <p align="center">
   <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
-
 </p>
-<hr>-->
+ <hr>
+-->
+ <!--- SECTION END: Contents for Number of profile visitors -->
 
-<h2 align="center">🔐Licence🔐</h2> <!--- Level 2 Heading to align contents --> 
+<h2 align="center">🔐License🔐</h2> <!--- Level 2 Heading to align contents -->
 <p align="center"> <!--- P tag to align contents -->
   <a href="https://github.com/ImaniAN/ImaniAN/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/ImaniAN/ImaniAN?style=for-the-badge&color=1D70B8">
@@ -476,7 +477,9 @@
 </p>
 
 <details>
-  <summary>Resources and credits. (Thanks for these awesome resources that were used during the development) </summary>
+  <summary>
+  Resources and credits... (Thanks for these awesome resources that were used during the development)
+  </summary>
   <ol>
     <li><a href="https://github.com/stars/ImaniAN/lists/readme">My personal list of GitHub ReadMe resources</a></li>
     <li><a href="https://awesome-github-readme-profile.netlify.app/">A Collection of GitHub Profiles with awesome ReadMe by categories</a></li>
