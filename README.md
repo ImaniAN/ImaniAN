@@ -451,7 +451,12 @@
     <a href="https://github.com/ImaniAN">
       <img alt="ImaniAN's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ImaniAN&show_icons=true&count_private=true&layout=compact&theme=gotham" height="192px"/>
     </a>
-    <a href="https://github.com/ImaniAN"><img alt="ImaniAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook" height="192px"/>
+    <a href="https://github.com/ImaniAN">
+    <img alt="ImaniAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&langs_count=9&layout=compact&theme=gotham" height="192px"/>
+    </a>
+    <br>
+      <a href="https://github.com/ImaniAN">
+      <img alt="ImaniAN's Trophies" src="https://github-profile-trophy.vercel.app/?username=ImaniAN&column=4&theme=juicyfresh"/>
     </a>
   </p>
  <!--- SECTION START: Contents for Number of profile visitors -->
@@ -478,7 +483,7 @@
 
 <details>
   <summary>
-  Resources and credits... (Thanks for these awesome resources that were used during the development)
+  Resources and credits... (Thanks to these awesome resources that were used during the development)
   </summary>
   <ol>
     <li><a href="https://github.com/stars/ImaniAN/lists/readme">My personal list of GitHub ReadMe resources</a></li>
@@ -509,3 +514,19 @@
 </details>
 
 <h2  align="center">⬇️ Check Out My Repos ⬇️ </h2>
+
+<!--
+# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+## 1. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+## 4. Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
+## 5. Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+ -->
