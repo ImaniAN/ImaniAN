@@ -252,11 +252,6 @@
       </td>
       <td> <!--- Contents for "📲How to reach me📲" -->
         <p align="center"> <!--- P tag to align contents -->
-          <a href="https://stackexchange.com/">
-            <img src="https://img.shields.io/badge/-StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=black"alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://stackoverflow.com/">
-            <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="mailto:imani.niyigena@outlook.com">
             <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
@@ -267,23 +262,11 @@
           <a href="https://github.com/ImaniAN">
             <img src="https://img.shields.io/github/followers/ImaniAN?label=ImaniAN&logo=GitHub&style=for-the-badge" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-          <a href="https://www.instagram.com/the_real_king_imani/">
-            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://wa.me/+27817360534">
-            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://za.pinterest.com/imanix8/">
-            <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://tttttt.me/King0ian">
-            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          <a href="https://linktr.ee/imaniniyigena">
+            <img src="https://img.shields.io/badge/linktr.ee-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://www.linkedin.com/in/imani-niyigena-04ab47136/">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://www.reddit.com/user/The_Real_King_Some1">
-            <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="mailto:imanix8@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
