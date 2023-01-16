@@ -21,62 +21,64 @@
     <tr>
       <td> <!--- Contents for "🧠Languages🧠" -->
         <p align="center"> <!--- P tag to align contents -->
-        <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
-          <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-        </a>
-        <a href="https://www.javascript.com/">
-          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-        </a>
-        <a href="https://www.w3schools.com/html/">
-          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-        </a>
-        <a href="https://www.python.org/">
-          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-        </a>
-        <a href="https://www.w3schools.com/css/">
-          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-        </a>
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-          <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+          <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
+            <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://www.javascript.com/">
+            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://www.w3schools.com/html/">
+            <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://www.python.org/">
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://www.w3schools.com/css/">
+            <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+            <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
         </p>
       </td>
       <td> <!--- Contents for "🥋Frameworks, Platforms and Libraries🥋" -->
         <p align="center"> <!--- P tag to align contents -->
-        <a href="https://tailwindcss.com/">
-          <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-        </a>
-        <a href="https://getbootstrap.com/">
-          <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-        </a>
-        <a href="https://nodejs.org/">
-          <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-        </a>
-        <a href="https://dotnet.microsoft.com/en-us/">
-          <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-        </a>
-        <a href="https://jwt.io/">
-          <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-        </a>
-        <a href="https://www.npmjs.com/">
-          <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+          <a href="https://tailwindcss.com/">
+            <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://getbootstrap.com/">
+            <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://nodejs.org/">
+            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://dotnet.microsoft.com/en-us/">
+            <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://jwt.io/">
+            <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://www.npmjs.com/">
+            <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+            </a>
         </p>
       </td>
       <td> <!--- Contents for "🎨Design🎨" -->
         <p align="center"> <!--- P tag to align contents -->
           <a href="https://www.adobe.com/africa/products/dreamweaver.html">
-            <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white">
+            <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://www.adobe.com/africa/products/photoshop.html">
-            <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+            <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://get.adobe.com/reader/">
-            <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white">
+            <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://www.figma.com/">
-            <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+            <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://www.gimp.org/">
-            <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">
+            <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
         </p>
       </td>
@@ -96,61 +98,63 @@
       <td> <!--- Contents for "🧙Version Control🧙" -->
         <p align="center"> <!--- P tag to align contents -->
           <a href="https://github.com/features/actions">
-            <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+            <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-             <a href="https://about.gitlab.com/">
-            <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+          <a href="https://about.gitlab.com/">
+            <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-                    <a href="https://about.gitlab.com/">
-            <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+          <a href="https://about.gitlab.com/">
+            <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://github.com/ImaniAN">
-            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-                    <a href="https://git-scm.com/">
-            <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+          <a href="https://git-scm.com/">
+            <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
         </p>
       </td>
       <td> <!--- Contents for "✍IDEs/Editors✍" -->
         <p align="center"> <!--- P tag to align contents -->
-        <a href="https://code.visualstudio.com/">
-          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-          <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
-        </a>
-        <a href="https://visualstudio.microsoft.com/">
-          <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-        </a>
-        <a href="https://wordpress.com/">
-          <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
-        </a>
-                <a href="https://www.jetbrains.com/pycharm/">
-          <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+          <a href="https://code.visualstudio.com/">
+            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-                <a href="https://www.jetbrains.com/webstorm/">
-          <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
-        </a>
-                  <a href="https://www.postman.com/">
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-        </a>
-        <a href="https://jupyter.org/">
-          <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-        </a>
+          <a>
+            <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://visualstudio.microsoft.com/">
+            <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://wordpress.com/">
+            <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://www.jetbrains.com/pycharm/">
+            <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt= "Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://www.jetbrains.com/webstorm/">
+            <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://www.postman.com/">
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://jupyter.org/">
+            <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
         </p>
       </td>
-            <td> <!--- Contents for "🌐Browsers🌐" -->
+      <td> <!--- Contents for "🌐Browsers🌐" -->
         <p align="center"> <!--- P tag to align contents -->
-        <a href="https://www.google.com/chrome/">
-          <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
-        </a>
-        <a href="https://www.mozilla.org/en-US/firefox/new/">
-          <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
-        </a>
-        <a href="https://brave.com/">
-          <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
-        </a>
-        <a href="https://www.torproject.org/">
-          <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
+          <a href="https://www.google.com/chrome/">
+            <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://www.mozilla.org/en-US/firefox/new/">
+            <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://brave.com/">
+            <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://www.torproject.org/">
+            <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
         </p>
       </td>
@@ -174,48 +178,48 @@
       <td> <!--- Contents for "📊📉📈AI & ML📊📉📈" -->
         <p align="center"> <!--- P tag to align contents -->
         <a href="https://scikit-learn.org/">
-          <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+          <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
         <a href="https://pandas.pydata.org/">
-          <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+          <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
         <a href="https://numpy.org/">
-          <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+          <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
         <a href="https://scipy.org/">
-          <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+          <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
         </p>
       </td>
       <td> <!--- Contents for "💻Operating System💻" -->
         <p align="center"> <!--- P tag to align contents -->
           <a href="https://www.microsoft.com/en-za/windows">
-            <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+            <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://ubuntu.com/">
-            <img src="https://img.shields.io/badge/Ubuntu%2022-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+            <img src="https://img.shields.io/badge/Ubuntu%2022-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://www.google.com/chromebook/chrome-os/">
-            <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white">
+            <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://www.kali.org/">
-            <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+            <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
         </p>
       </td>
       <td> <!--- Contents for "🏢Microsoft Office🏢" -->
         <p align="center"> <!--- P tag to align contents -->
         <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">
-          <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+          <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
         <a href="https://www.microsoft.com/en-za/microsoft-365/access">
-          <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
+          <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
         <a href="https://www.microsoft.com/en-za/microsoft-365/excel">
-          <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+          <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
         <a href="https://www.microsoft.com/en-us/microsoft-365/word">
-          <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+          <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
         </p>
       </td>
@@ -239,75 +243,72 @@
           <td> <!--- Contents for "🖥️Server🖥️" -->
         <p align="center"> <!--- P tag to align contents -->
         <a href="https://www.apache.org/">
-          <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+          <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
         <a href="https://www.nginx.com/">
-          <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+          <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
         </p>
       </td>
       <td> <!--- Contents for "📲How to reach me📲" -->
         <p align="center"> <!--- P tag to align contents -->
+          <a href="https://stackexchange.com/">
+            <img src="https://img.shields.io/badge/-StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=black"alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://stackoverflow.com/">
+            <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
           <a href="mailto:imani.niyigena@outlook.com">
-            <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+            <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://twitter.com/king_niyigena">
-            <img src="https://img.shields.io/twitter/follow/king_niyigena?label=king_niyigena&logo=twitter&style=for-the-badge">
+            <img src="https://img.shields.io/twitter/follow/king_niyigena?label=king_niyigena&logo=twitter&style=for-the-badge" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://github.com/ImaniAN">
-            <img src="https://img.shields.io/github/followers/ImaniAN?label=ImaniAN&logo=GitHub&style=for-the-badge">
+            <img src="https://img.shields.io/github/followers/ImaniAN?label=ImaniAN&logo=GitHub&style=for-the-badge" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://www.instagram.com/the_real_king_imani/">
-            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://wa.me/+27817360534">
-            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://za.pinterest.com/imanix8/">
-            <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
-          </a>
-          <a href="https://www.linkedin.com/in/imani-niyigena-04ab47136/">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+            <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://tttttt.me/King0ian">
-            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+          <a href="https://www.linkedin.com/in/imani-niyigena-04ab47136/">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://www.reddit.com/user/The_Real_King_Some1">
-            <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+            <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="mailto:imanix8@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-          </a>
-        <a href="https://stackexchange.com/">
-          <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
-        </a>
-        <a href="https://stackoverflow.com/">
-          <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-        </a>
-          <a href="https://www.reddit.com/user/The_Real_King_Some1">
-            <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
        </p>
       </td>
       <td> <!--- Contents for "🙏Sponsor Me🙏" -->
       <p align="center"> <!--- P tag to align contents -->
         <a href="https://www.buymeacoffee.com/KingIAN">
-          <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+          <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
-        <a href="https://ethereumaddress.afterslash/0x0fE164Fa8e566908aa873a0610170d49804bC123">
-          <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" title="Click on the link and check out the URL">
+        <a href="https://www.blockchain.com/explorer/addresses/eth/0x0fE164Fa8e566908aa873a0610170d49804bC123">
+          <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
-        <a href="https://litecoinaddress.afterslash/MKgSAbMUhrjbKVzak9KHJ6HvBD75rHd4oZ">
-          <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white" title="Click on the link and check out the URL">
+        <a href="https://blockchair.com/litecoin/address/MKgSAbMUhrjbKVzak9KHJ6HvBD75rHd4oZ">
+          <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
-        <a href="https://bitcoinaddress.afterslash/3GJ2JR5m8iTGr6XufSJ7cRhv5iotfydSs4">
-          <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" title="Click on the link and check out the URL">
+        <a href="https://www.blockchain.com/explorer/addresses/btc/3GJ2JR5m8iTGr6XufSJ7cRhv5iotfydSs4">
+          <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
         <a href="https://www.paypal.me/ImaniNiyigena">
-          <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+          <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
-        <a href="https://xrpaddress.afterslash/rsRy14FvipgqudiGmptJBhr1RtpsgfzKMM/xrptag/2136507924">
-          <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" title="Click on the link and check out the URL">
+        <a href="https://xrpscan.com/account/rsRy14FvipgqudiGmptJBhr1RtpsgfzKMM">
+          <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
       </p>
       </td>
@@ -318,38 +319,39 @@
 <h2 align="center">🎧Music🎧</h2> <!--- Level 2 Heading to align contents -->
 
 <p align="center"> <!--- P tag to align contents -->
-  <a href="https://open.spotify.com/user/3le8v925s45h586cyv9dfpdlt" align="center" > <!--- Spotify currently playing and last played with link to Spotify Account -->
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true" align="center" alt="Spotify Now playing and recently played"/>
+  <a href="https://open.spotify.com/user/3le8v925s45h586cyv9dfpdlt" align="center"> <!--- Spotify currently playing and last played with link to Spotify Account -->
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3le8v925s45h586cyv9dfpdlt&cover_image=true&theme=default&bar_color_cover=true" align="center" alt="Spotify Now playing and recently played" title= "Click on the link and check out the URL">
   </a><!--- Spotify currently playing and last played with link to Spotify Account -->
 </p>
 
 <h2 align="center">🤝 GitHub Extra info🤝</h2> <!--- Level 2 Heading to align contents -->
 <p align="center"> <!--- P tag to align contents -->
   <a href="https://github.com/ImaniAN">
-    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge&label=Account%20Visits">
+    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge&label=Account%20Visits" alt="Add a description" title= "Click on the link and check out the URL">
   </a>
   <a href="https://github.com/ImaniAN/ImaniAN/network/members">
-    <img src="https://img.shields.io/github/forks/ImaniAN/ImaniAN?style=for-the-badge&color=1D70B8&logo=GitHub&logoColor=FFFFFF&label=Repo%20Forks">
+    <img src="https://img.shields.io/github/forks/ImaniAN/ImaniAN?style=for-the-badge&color=1D70B8&logo=GitHub&logoColor=FFFFFF&label=Repo%20Forks" alt="Add a description" title= "Click on the link and check out the URL">
    </a>
      <a href="https://github.com/ImaniAN/ImaniAN/stargazers">
-    <img src="https://img.shields.io/github/stars/ImaniAN/ImaniAN?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&color=1D70B8&label=Repo%20Stargazers">
+    <img src="https://img.shields.io/github/stars/ImaniAN/ImaniAN?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&color=1D70B8&label=Repo%20Stargazers" alt="Add a description" title= "Click on the link and check out the URL">
    </a>
   <a href="https://github.com/ImaniAN">
-   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ImaniAN/ImaniAN?style=for-the-badge&color=1D70B8&logo=GitHub&logoColor=FFFFFF&label=Last%20Update">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ImaniAN/ImaniAN?style=for-the-badge&color=1D70B8&logo=GitHub&logoColor=FFFFFF&label=Last%20Updated" title= "Click on the link and check out the URL">
   </a>
     </p>
   <p align="center"> <!--- P tag to align contents -->
     <a href="https://github.com/ImaniAN">
-      <img alt="ImaniAN's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ImaniAN&show_icons=true&count_private=true&layout=compact&theme=gotham" height="192px"/>
+      <img alt="ImaniAN's Github Stats" title= "Click on the link and check out the URL" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ImaniAN&show_icons=true&count_private=true&layout=compact&theme=gotham" height="192px">
     </a>
     <a href="https://github.com/ImaniAN">
-    <img alt="ImaniAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&langs_count=9&layout=compact&theme=gotham" height="192px"/>
+    <img alt="ImaniAN's Top Languages" title= "Click on the link and check out the URL" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&langs_count=9&layout=compact&theme=gotham" height="192px">
     </a>
     <br>
       <a href="https://github.com/ImaniAN">
-      <img alt="ImaniAN's Trophies" src="https://github-profile-trophy.vercel.app/?username=ImaniAN&column=4&theme=juicyfresh"/>
+      <img alt="ImaniAN's Trophies" title= "Click on the link and check out the URL" src="https://github-profile-trophy.vercel.app/?username=ImaniAN&column=4&theme=juicyfresh">
     </a>
   </p>
+
  <!--- SECTION START: Contents for Number of profile visitors -->
  <!---
  <div align="center">
@@ -400,7 +402,6 @@
     <li><a href="https://github.com/simple-icons/simple-icons">'Simple Icons' Repo</a></li>
     <li><a href="https://github-readme-streak-stats.herokuapp.com/demo/">Github ReadMe Streak Stats</a></li>
     <li><a href="https://coderjojo.github.io/creative-profile-readme/">A Collection of GitHub Profiles with awesome ReadMe</a></li>
-
   </ol>
 </details>
 
