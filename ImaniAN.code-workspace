@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"waderyan.gitblame",
+			"bierner.emojisense",
+			"piotrpalarz.vscode-gitignore-generator",
+			"znck.grammarly",
+			"visualstudioexptteam.intellicode-api-usage-examples",
+			"yzhang.markdown-all-in-one",
+			"bierner.markdown-emoji",
+			"bierner.markdown-preview-github-styles",
+			"bierner.markdown-mermaid",
+			"davidanson.vscode-markdownlint",
+			"visualstudioexptteam.vscodeintellicode",
+			"alefragnani.project-manager",
+			"ban.spellright",
+			"ziyasal.vscode-open-in-github",
+			"christian-kohler.path-intellisense",
+			"esbenp.prettier-vscode",
+			"codezombiech.gitignore",
+			"donjayamanne.githistory",
+			"shaharkazaz.git-merger",
+			"felipecaputo.git-project-manager",
+			"github.codespaces",
+			"github.copilot",
+			"github.vscode-pull-request-github",
+			"donjayamanne.git-extension-pack",
+			"mhutchie.git-graph",
+			"unifiedjs.vscode-mdx",
+			"tabnine.tabnine-vscode",
+			"wayou.vscode-todo-highlight",
+			"gruntfuggly.todo-tree",
+			"shardulm94.trailing-spaces",
+			"vscode-icons-team.vscode-icons"
+		]
+	}
+}
