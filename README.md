@@ -258,9 +258,6 @@
           <a href="mailto:imani.niyigena@outlook.com">
             <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-          <a href="https://twitter.com/king_niyigena">
-            <img src="https://img.shields.io/twitter/follow/king_niyigena?label=king_niyigena&logo=twitter&style=for-the-badge" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
           <a href="https://github.com/ImaniAN">
             <img src="https://img.shields.io/github/followers/ImaniAN?label=ImaniAN&logo=GitHub&style=for-the-badge" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
