@@ -309,7 +309,7 @@
 <h2 align="center">🤝 GitHub Extra info🤝</h2> <!--- Level 2 Heading to align contents -->
 <p align="center"> <!--- P tag to align contents -->
   <a href="https://github.com/ImaniAN">
-    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ImaniAN.ImaniAN&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge&label=Account%20Visits" alt="Add a description" title= "Click on the link and check out the URL">
+    <img src="https://komarev.com/ghpvc/?username=ImaniAN&&style=for-the-badge" alt="Add a description" title= "Click on the link and check out the URL">
   </a>
   <a href="https://github.com/ImaniAN/ImaniAN/network/members">
     <img src="https://img.shields.io/github/forks/ImaniAN/ImaniAN?style=for-the-badge&color=1D70B8&logo=GitHub&logoColor=FFFFFF&label=Repo%20Forks" alt="Add a description" title= "Click on the link and check out the URL">
@@ -335,8 +335,7 @@
   </p>
 
  <!--- SECTION START: Contents for Number of profile visitors -->
- <!---
- <div align="center">
+<!--   <div align="center">
   <br>
     <p align="centre"><b>Number of profile visitors</b></p>
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ImaniAN}/count.svg" /></p>
@@ -345,8 +344,7 @@
 <p align="center">
   <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </p>
- <hr>
--->
+ <hr> -->
  <!--- SECTION END: Contents for Number of profile visitors -->
 
 <h2 align="center">🔐License🔐</h2> <!--- Level 2 Heading to align contents -->
@@ -400,7 +398,7 @@
 ## 4. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ImaniAN)
 ### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
  -->
