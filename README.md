@@ -307,6 +307,15 @@
 </p>
 
 <h2 align="center">🤝 GitHub Extra info🤝</h2> <!--- Level 2 Heading to align contents -->
+<details align="center">
+  <summary>
+  (CLICK ME!!!!!)Indepth Github metrics (CLICK ME!!!!!)
+  </summary>
+  <ol>
+    <li><p align="center">
+<img src="https://metrics.lecoq.io/ImaniAN?template=classic&languages=1&achievements=1&repositories=1&code=1&stars=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&repositories=false&repositories.featured=MLA-Helper%2C%20ImaniAN%2FMLA-Helper&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=America%2FNew_York" width="100%"></img> </p></li>
+  </ol>
+</details>
 <p align="center"> <!--- P tag to align contents -->
   <a href="https://github.com/ImaniAN">
     <img src="https://komarev.com/ghpvc/?username=ImaniAN&&style=for-the-badge" alt="Add a description" title= "Click on the link and check out the URL">
@@ -332,21 +341,7 @@
       <a href="https://github.com/ImaniAN">
       <img alt="ImaniAN's Trophies" title= "Click on the link and check out the URL" src="https://github-profile-trophy.vercel.app/?username=ImaniAN&column=4&theme=juicyfresh">
     </a>
-  </p>
-
- <!--- SECTION START: Contents for Number of profile visitors -->
-<!--   <div align="center">
-  <br>
-    <p align="centre"><b>Number of profile visitors</b></p>
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ImaniAN}/count.svg" /></p>
-  <br>
- </div>
-<p align="center">
-  <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </p>
- <hr> -->
- <!--- SECTION END: Contents for Number of profile visitors -->
-
 <h2 align="center">🔐License🔐</h2> <!--- Level 2 Heading to align contents -->
 <p align="center"> <!--- P tag to align contents -->
   <a href="https://github.com/ImaniAN/ImaniAN/blob/main/LICENSE">
@@ -356,7 +351,7 @@
 
 <details>
   <summary>
-  Resources and credits... (Thanks to these awesome resources that were used during the development)
+  (CLICK ME!!!!!) Resources and credits... (Thanks to these awesome resources that were used during the development) (CLICK ME!!!!!)
   </summary>
   <ol>
     <li><a href="https://github.com/stars/ImaniAN/lists/readme">My personal list of GitHub ReadMe resources</a></li>
@@ -402,3 +397,16 @@
 ### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
  -->
+
+ <!--- SECTION START: Contents for Number of profile visitors -->
+<!--   <div align="center">
+  <br>
+    <p align="centre"><b>Number of profile visitors</b></p>
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ImaniAN}/count.svg" /></p>
+  <br>
+ </div>
+<p align="center">
+  <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+</p>
+ <hr> -->
+ <!--- SECTION END: Contents for Number of profile visitors -->
