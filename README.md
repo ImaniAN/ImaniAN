@@ -68,12 +68,6 @@
           <a href="https://www.adobe.com/africa/products/dreamweaver.html">
             <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-          <a href="https://www.adobe.com/africa/products/photoshop.html">
-            <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://get.adobe.com/reader/">
-            <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
           <a href="https://www.figma.com/">
             <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
