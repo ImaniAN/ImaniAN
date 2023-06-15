@@ -113,20 +113,11 @@
           <a href="https://code.visualstudio.com/">
             <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-          <a>
-            <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
           <a href="https://visualstudio.microsoft.com/">
             <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-          <a href="https://wordpress.com/">
-            <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
           <a href="https://www.jetbrains.com/pycharm/">
             <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt= "Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://www.jetbrains.com/webstorm/">
-            <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://www.postman.com/">
             <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
