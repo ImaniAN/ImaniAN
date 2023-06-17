@@ -13,7 +13,7 @@
         <h2 align="center">🥋Frameworks, Platforms and Libraries🥋</h2> <!--- Level 2 Heading to align contents -->
       </th>
       <th>
-        <h2 align="center">🎨Design🎨</h2> <!--- Level 2 Heading to align contents -->
+        <h2 align="center">🧙Version Control🧙 </h2> <!--- Level 2 Heading to align contents -->
       </th>
     </tr>
   </thead>
@@ -27,14 +27,8 @@
           <a href="https://www.javascript.com/">
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-          <a href="https://www.w3schools.com/html/">
-            <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
           <a href="https://www.python.org/">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://www.w3schools.com/css/">
-            <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
             <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
@@ -46,50 +40,18 @@
           <a href="https://tailwindcss.com/">
             <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-          <a href="https://getbootstrap.com/">
-            <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
           <a href="https://nodejs.org/">
             <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://dotnet.microsoft.com/en-us/">
             <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-          <a href="https://jwt.io/">
-            <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://www.npmjs.com/">
-            <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-            </a>
-        </p>
-      </td>
-      <td> <!--- Contents for "🎨Design🎨" -->
-        <p align="center"> <!--- P tag to align contents -->
-          <a href="https://www.adobe.com/africa/products/dreamweaver.html">
-            <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://www.figma.com/">
-            <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://www.gimp.org/">
-            <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Add a description" title= "Click on the link and check out the URL">
+          <a href="https://svelte.dev/">
+            <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
         </p>
       </td>
-    </tr>
-    <tr>
-      <td>
-        <h2 align="center">🧙Version Control🧙 </h2> <!--- Level 2 Heading to align contents -->
-      </td>
-      <td>
-        <h2 align="center">✍IDEs/Editors✍</h2> <!--- Level 2 Heading to align contents -->
-      </td>
-            <td>
-        <h2 align="center">🌐Browsers🌐</h2> <!--- Level 2 Heading to align contents -->
-      </td>
-    </tr>
-    <tr>
-      <td> <!--- Contents for "🧙Version Control🧙" -->
+<td> <!--- Contents for "🧙Version Control🧙" -->
         <p align="center"> <!--- P tag to align contents -->
           <a href="https://github.com/features/actions">
             <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
@@ -106,6 +68,33 @@
           <a href="https://git-scm.com/">
             <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h2 align="center">💻Operating Systems💻</h2> <!--- Level 2 Heading to align contents -->
+      </td>
+      <td>
+        <h2 align="center">✍IDEs/Editors✍</h2> <!--- Level 2 Heading to align contents -->
+      </td>
+      <td>
+        <h2 align="center">📲How to reach me📲</h2> <!--- Level 2 Heading to align contents -->
+      </td>
+    </tr>
+    <tr>
+          <td> <!--- Contents for "💻Operating System💻" -->
+        <p align="center"> <!--- P tag to align contents -->
+         <a href="https://www.microsoft.com/en-za/windows">
+          <img src="https://img.shields.io/badge/Windows%20Server%202022-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          <a href="https://manjaro.org/">
+            <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
+        <a href="https://www.apache.org/">
+          <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+        </a>
+        <a href="https://www.nginx.com/">
+          <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </p>
       </td>
       <td> <!--- Contents for "✍IDEs/Editors✍" -->
@@ -127,117 +116,7 @@
           </a>
         </p>
       </td>
-      <td> <!--- Contents for "🌐Browsers🌐" -->
-        <p align="center"> <!--- P tag to align contents -->
-          <a href="https://www.google.com/chrome/">
-            <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://www.mozilla.org/en-US/firefox/new/">
-            <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://brave.com/">
-            <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://www.torproject.org/">
-            <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-      <td>
-        <h2 align="center">📊📉📈AI & ML📊📉📈</h2> <!--- Level 2 Heading to align contents -->
-      </td>
-      <td>
-        <h2 align="center">💻Operating System💻</h2> <!--- Level 2 Heading to align contents -->
-      </td>
-      <td>
-        <h2 align="center">🏢Microsoft Office🏢</h2> <!--- Level 2 Heading to align contents -->
-      </td>
-    </tr>
-    <tr>
-      <td> <!--- Contents for "📊📉📈AI & ML📊📉📈" -->
-        <p align="center"> <!--- P tag to align contents -->
-        <a href="https://scikit-learn.org/">
-          <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-        </a>
-        <a href="https://pandas.pydata.org/">
-          <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-        </a>
-        <a href="https://numpy.org/">
-          <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-        </a>
-        <a href="https://scipy.org/">
-          <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-        </p>
-      </td>
-      <td> <!--- Contents for "💻Operating System💻" -->
-        <p align="center"> <!--- P tag to align contents -->
-          <a href="https://www.microsoft.com/en-za/windows">
-            <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://ubuntu.com/">
-            <img src="https://img.shields.io/badge/Ubuntu%2022-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://www.google.com/chromebook/chrome-os/">
-            <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-          <a href="https://www.kali.org/">
-            <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
-        </p>
-      </td>
-      <td> <!--- Contents for "🏢Microsoft Office🏢" -->
-        <p align="center"> <!--- P tag to align contents -->
-        <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">
-          <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-        </a>
-        <a href="https://www.microsoft.com/en-za/microsoft-365/access">
-          <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-        </a>
-        <a href="https://www.microsoft.com/en-za/microsoft-365/excel">
-          <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-        </a>
-        <a href="https://www.microsoft.com/en-us/microsoft-365/word">
-          <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-        </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-          <td>
-        <h2 align="center">🖥️Server🖥️</h2> <!--- Level 2 Heading to align contents -->
-      </td>
-      <td>
-        <h2 align="center">📲How to reach me📲</h2> <!--- Level 2 Heading to align contents -->
-      </td>
-      <td>
-        <h2 align="center">🙏Sponsor Me🙏</h2> <!--- Level 2 Heading to align contents -->
-      </td>
-    </tr>
-    <tr>
-          <td> <!--- Contents for "🖥️Server🖥️" -->
-        <p align="center"> <!--- P tag to align contents -->
-         <a href="https://www.microsoft.com/en-za/windows">
-          <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-        <a href="https://www.apache.org/">
-          <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-        </a>
-        <a href="https://www.nginx.com/">
-          <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-        </a>
-        </p>
-      </td>
-      <td> <!--- Contents for "📲How to reach me📲" -->
+            <td> <!--- Contents for "🙏Sponsor Me🙏" -->
         <p align="center"> <!--- P tag to align contents -->
           </a>
           <a href="mailto:imani.niyigena@outlook.com">
@@ -255,10 +134,6 @@
           <a href="mailto:imanix8@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-       </p>
-      </td>
-      <td> <!--- Contents for "🙏Sponsor Me🙏" -->
-      <p align="center"> <!--- P tag to align contents -->
         <a href="https://www.buymeacoffee.com/KingIAN">
           <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
@@ -294,14 +169,14 @@
 <h2 align="center">🤝 GitHub Extra info🤝</h2> <!--- Level 2 Heading to align contents -->
 <details align="center">
   <summary>
-  (CLICK HERE!!!) Indepth Github metrics (CLICK HERE!!!)
+  (CLICK!!!) Indepth Github Metrics and Info (HERE!!!)
   </summary>
   <ol>
     <a href="https://github.com/ImaniAN">
     <img src="https://api.star-history.com/svg?repos=ImaniAN/ImaniAN&type=Date" alt="Add a description" title= "Click on the link and check out the URL">
   </a>
     <p align="center">
-<img src="https://metrics.lecoq.io/ImaniAN?template=classic&languages=1&lines=1&habits=1&repositories=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.ignored=html%2C%20css%2C&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.featured=Python-function-exercises%2C%20Kasino%2C%20VayaTaxi%2C%20SvelteSupaRise%2C%20STEMcarta%2C%20STEMit%2C%20Personal-WebSite%2C%20ImaniAN%2C%20SkillsWorks%2C%20A-FullStack-Dev-RoadMap%2C%20CryptoTrader%2C%20Fathom-Growth-Solutions-Website%2C%20GitHub-Search-Follow%2C%20DevGram%2C%20CryptoTokens%2C%20AppointMate%2C%20PhandaMo%2C%20Iduka&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=all&notable.repositories=true&notable.indepth=false&notable.types=commit&notable.self=true&config.timezone=Africa%2FJohannesburg" width="90%"></img>
+<img src="https://metrics.lecoq.io/ImaniAN?template=classic&base.hireable=true&isocalendar=1&languages=1&lines=1&habits=1&notable=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&notable=false&notable.from=all&notable.repositories=true&notable.indepth=false&notable.types=commit&notable.self=true&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Africa%2FJohannesburg" width="90%"></img>
 </p>
   </ol>
 </details>
@@ -340,8 +215,8 @@
 </p>
 
 <details>
-  <summary>
-  (CLICK HERE!!!) Resources and credits... (Thanks to these awesome resources that were used during the development) (CLICK HERE!!!)
+  <summary align="center">
+  (CLICK!!!) Resources, credits and S/O... (HERE!!!)
   </summary>
   <ol>
     <li><a href="https://github.com/stars/ImaniAN/lists/readme">My personal list of GitHub ReadMe resources</a></li>
