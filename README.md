@@ -364,7 +364,7 @@
     <li><a href="https://github.com/ryo-ma/github-profile-trophy">Github Profile Trophies by ryo-ma</a></li>
     <li><a href="https://github.com/DenverCoder1/github-readme-streak-stats">Github ReadMe Streak Stats by DenverCoder1</a></li>
     <li><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Github Readme Activity Graph Ashutosh00710</a></li>
-    <li><a href="https://github.com/simple-icons/simple-icons">'Simple Icons' Repo</a></li>
+    <li><a href="https://star-history.com/#ImaniAN/ImaniAN&Date">Star History for GitHub Repos</a></li>
     <li><a href="https://github-readme-streak-stats.herokuapp.com/demo/">Github ReadMe Streak Stats</a></li>
     <li><a href="https://coderjojo.github.io/creative-profile-readme/">A Collection of GitHub Profiles with awesome ReadMe</a></li>
   </ol>
