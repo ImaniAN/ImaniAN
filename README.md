@@ -43,6 +43,9 @@
           <a href="https://tailwindcss.com/">
             <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
+          <a href="https://supabase.com/">
+            <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
           <a href="https://nodejs.org/">
             <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
