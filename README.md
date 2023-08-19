@@ -204,7 +204,7 @@
     </a>
     <br>
       <a href="https://github.com/ImaniAN">
-      <img alt="ImaniAN's Trophies" title= "Click on the link and check out the URL" src="https://github-trophies.vercel.app/?username=ImaniAN&column=4&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4">
+      <img alt="ImaniAN's Trophies" title= "Click on the link and check out the URL" src="https://github-trophies.vercel.app/?username=ImaniAN&column=6&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4">
     </a>
 </p>
 <h2 align="center">🔐License🔐</h2> <!--- Level 2 Heading to align contents -->
