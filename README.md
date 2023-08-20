@@ -27,7 +27,7 @@
           <a href="https://www.javascript.com/">
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
-                      <a href="https://www.postgresql.org/">
+          <a href="https://www.postgresql.org/">
             <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
           <a href="https://www.python.org/">
@@ -194,10 +194,10 @@
     </p>
   <p align="center"> <!--- P tag to align contents -->
     <a href="https://github.com/ImaniAN">
-      <img alt="ImaniAN's Github Stats" title= "Click on the link and check out the URL" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ImaniAN&show_icons=true&count_private=true&layout=compact&theme=gotham" height="192px">
+      <img alt="ImaniAN's Github Stats" title= "Click on the link and check out the URL" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ImaniAN&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=gotham" height="192px">
     </a>
         <a href="https://github.com/ImaniAN">
-      <img alt="ImaniAN's Github Streak" title= "Click on the link and check out the URL" src="https://github-readme-streak-stats.herokuapp.com/?user=ImaniAN&theme=gotham&hide_border=false" height="192px">
+      <img alt="ImaniAN's Github Streak" title= "Click on the link and check out the URL" src="https://github-readme-streak-stats.herokuapp.com/?user=ImaniAN&theme=gotham&include_all_commits=true&count_private=true&hide_border=false" height="192px">
     </a>
     <a href="https://github.com/ImaniAN">
     <img alt="ImaniAN's Top Languages" title= "Click on the link and check out the URL" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&hide=html,css,m4,c++,java,php,makefile,roff,cmake,shell&langs_count=9&layout=compact&theme=gotham" height="192px">
