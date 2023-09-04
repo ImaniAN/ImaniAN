@@ -200,7 +200,7 @@
       <img alt="ImaniAN's Github Stats" title= "Click on the link and check out the URL" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ImaniAN&show_icons=true&count_private=true&layout=compact&theme=gotham" height="192px">
     </a>
     <a href="https://github.com/ImaniAN">
-    <img alt="ImaniAN's Top Languages" title= "Click on the link and check out the URL" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&langs_count=9&layout=compact&theme=gotham" height="192px">
+    <img alt="ImaniAN's Top Languages" title= "Click on the link and check out the URL" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&hide=html,css,m4,c++,java,php,makefile,roff,cmake,shell&langs_count=9&layout=compact&theme=gotham" height="192px">
     </a>
     <br>
       <a href="https://github.com/ImaniAN">
