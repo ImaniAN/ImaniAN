@@ -199,12 +199,15 @@
     <a href="https://github.com/ImaniAN">
       <img alt="ImaniAN's Github Stats" title= "Click on the link and check out the URL" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ImaniAN&show_icons=true&count_private=true&layout=compact&theme=gotham" height="192px">
     </a>
+        <a href="https://github.com/ImaniAN">
+      <img alt="ImaniAN's Github Streak" title= "Click on the link and check out the URL" src="https://github-readme-streak-stats.herokuapp.com/?user=ImaniAN&theme=gotham&hide_border=false" height="192px">
+    </a>
     <a href="https://github.com/ImaniAN">
     <img alt="ImaniAN's Top Languages" title= "Click on the link and check out the URL" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniAN&hide=html,css,m4,c++,java,php,makefile,roff,cmake,shell&langs_count=9&layout=compact&theme=gotham" height="192px">
     </a>
     <br>
       <a href="https://github.com/ImaniAN">
-      <img alt="ImaniAN's Trophies" title= "Click on the link and check out the URL" src="https://github-profile-trophy.vercel.app/?username=ImaniAN&column=4&theme=juicyfresh">
+      <img alt="ImaniAN's Trophies" title= "Click on the link and check out the URL" src="https://github-trophies.vercel.app/?username=ImaniAN&column=4&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4">
     </a>
 </p>
 <h2 align="center">🔐License🔐</h2> <!--- Level 2 Heading to align contents -->
