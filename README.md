@@ -27,6 +27,9 @@
           <a href="https://www.javascript.com/">
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
+                      <a href="https://www.postgresql.org/">
+            <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
+          </a>
           <a href="https://www.python.org/">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Add a description" title= "Click on the link and check out the URL">
           </a>
