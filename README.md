@@ -87,9 +87,6 @@
         <p align="center"> <!--- P tag to align contents -->
          <a href="https://www.microsoft.com/en-za/windows">
           <img src="https://img.shields.io/badge/Windows%20Server%202022-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          <a href="https://manjaro.org/">
-            <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
-          </a>
         <a href="https://www.apache.org/">
           <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Add a description" title= "Click on the link and check out the URL">
         </a>
