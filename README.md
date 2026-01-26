@@ -27,6 +27,9 @@
           <a href="https://www.javascript.com/">
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Add a description" title= "Click HERE to find out more">
           </a>
+          <a href="https://www.typescriptlang.org/">
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Add a description" title= "Click HERE to find out more">
+          </a>
           <a href="https://www.postgresql.org/">
             <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Add a description" title= "Click HERE to find out more">
           </a>
@@ -43,6 +46,9 @@
           <a href="https://tailwindcss.com/">
             <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Add a description" title= "Click HERE to find out more">
           </a>
+          <a href="https://www.rabbitmq.com/">
+            <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="Add a description" title= "Click HERE to find out more">
+          </a>
           <a href="https://supabase.com/">
             <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Add a description" title= "Click HERE to find out more">
           </a>
@@ -51,6 +57,9 @@
           </a>
           <a href="https://vercel.com/">
             <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Add a description" title= "Click HERE to find out more">
+          </a>
+          <a href="https://nodejs.org/en">
+            <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Add a description" title= "Click HERE to find out more">
           </a>
           <a href="https://dotnet.microsoft.com/en-us/">
             <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Add a description" title= "Click HERE to find out more">
