@@ -52,9 +52,6 @@
           <a href="https://supabase.com/">
             <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Add a description" title= "Click HERE to find out more">
           </a>
-          <a href="https://nodejs.org/">
-            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Add a description" title= "Click HERE to find out more">
-          </a>
           <a href="https://vercel.com/">
             <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Add a description" title= "Click HERE to find out more">
           </a>
